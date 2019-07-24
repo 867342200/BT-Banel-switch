@@ -1,6 +1,8 @@
 # BT-Banel-switch
 宝塔面板一键开关脚本
 
+www.520iloveyou.vip
+
 一键脚本，制作非常简单。
 
 别吐槽！怎么几句话的基本我也要上传
